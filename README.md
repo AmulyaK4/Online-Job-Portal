@@ -11,7 +11,5 @@ This is a web-based Online Job Portal that allows users to view job listings and
 - 📦 Data stored in MySQL Workbench (backend integration)
 
 
- Output Screen
 
-Below is an example of the output screen showing job listings:
 
