@@ -1,20 +1,21 @@
  Online Job Portal
+ 
 This project is a web-based Online Job Portal developed to simplify and streamline the job search and hiring process. It connects job seekers and employers on a common platform where job listings can be posted, and applicants can apply based on their skills and interests.
 
 ✨ Features
-🔐 User Authentication
+1) User Authentication
 Separate login/signup for job seekers and employers.
 
-📋 Job Listings
+2) Job Listings
 Employers can post job openings with details like role, description, location, and salary.
 
-🧑‍💼 Job Seeker Dashboard
+3) Job Seeker Dashboard
 Job seekers can view available jobs, apply, and manage applications.
 
-🏢 Employer Dashboard
+4) Employer Dashboard
 Employers can manage job posts and view applicants.
 
-📊 Admin Panel (optional)
+5) Admin Panel (optional)
 Admin can manage users and monitor activity across the platform.
 
 🧱 Tech Stack
